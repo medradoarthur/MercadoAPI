@@ -1,0 +1,12 @@
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\obj\Debug\net5.0\Mercado.Domain.csproj.AssemblyReference.cache
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\obj\Debug\net5.0\Mercado.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\obj\Debug\net5.0\Mercado.Domain.AssemblyInfoInputs.cache
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\obj\Debug\net5.0\Mercado.Domain.AssemblyInfo.cs
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\obj\Debug\net5.0\Mercado.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\bin\Debug\net5.0\Mercado.Domain.deps.json
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\bin\Debug\net5.0\Mercado.Domain.dll
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\bin\Debug\net5.0\ref\Mercado.Domain.dll
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\bin\Debug\net5.0\Mercado.Domain.pdb
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\obj\Debug\net5.0\Mercado.Domain.dll
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\obj\Debug\net5.0\ref\Mercado.Domain.dll
+C:\Users\Pessimista\Desktop\Massa\ProjetoApiMercado\MercadoAPI\Mercado.Domain\obj\Debug\net5.0\Mercado.Domain.pdb
