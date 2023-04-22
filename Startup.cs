@@ -60,7 +60,7 @@ namespace MercadoAPI
 
             //Banco de Dados
             services.AddDbContext<DtContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("CnnStr")));
-            //services.AddDbContext<DtContext>(opt => opt.UseSqlServer("Server=PRODEZ-PC\\PRODEZ;Database=DB_Mercado;User Id=sa;Password=Prodezanhes05"));
+            //services.AddDbContext<DtContext>(opt => opt.UseSqlServer("Server=PRODEZ-PC\\PRODEZ;Database=DB_Mercado;User Id=sa;Password=Senhataltal"));
             services.AddScoped<DtContext, DtContext>();
 
             //Repositorios
